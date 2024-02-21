@@ -11,4 +11,3 @@ Whether through predictive models, in-depth statistical analyses, or advanced al
 
 💻 Optimizing SQL, Excel, Python, and Power BI together enables a powerful data analysis synergy, leveraging their respective strengths for comprehensive data extraction, manipulation, advanced analytics, and interactive visualization, enhancing efficiency and insights across the analytical workflow.
 
-Happy coding! 
